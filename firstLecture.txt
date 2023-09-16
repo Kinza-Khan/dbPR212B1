@@ -1,0 +1,10 @@
+-- CREATE DATABASE daraz;
+/* CREATE TABLE category(
+    id INT,
+    NAME VARCHAR(200),
+    des VARCHAR(200)
+); */
+-- alter command
+-- ALTER TABLE category ADD COLUMN image varchar(200)
+
+-- INSERT INTO category (id,name,des,image) VALUES (1,'ali','aptech','a.jpg');
